@@ -3,7 +3,7 @@ Affichez la variable $hello.
 Quel est son type ?
 
 # Concaténer des variables avec du texte
-A l'aide de l'opérateur de concaténation (le point en Php), afficher les texte "Hello, World !" en utilisant les variables $hello et $world.
+A l'aide de l'opérateur de concaténation (le point en Php), afficher le texte "Hello, World !" en utilisant les variables $hello et $world.
 Mettez tout ça dans une 3ème variable et affichez-là (l'affichage doit être le même ;-) ). 
 
 # Variables numériques
