@@ -9,3 +9,4 @@ Mettez tout ça dans une 3ème variable et affichez-là (l'affichage doit être 
 # Variables numériques
 Déclarez une variable $montantHt (observez la casse), et affectez-lui une valeur, par exemple 15.2.
 Calculez le montant TTC correspondant, stockez-le dans une variable, et affichez-le (avec un peu de texte avant ;-) ).
+
