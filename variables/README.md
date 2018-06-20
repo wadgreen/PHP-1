@@ -13,7 +13,7 @@ Calculez le montant TTC correspondant, stockez-le dans une variable, et affichez
 # Tableaux
 Le fichier tableaux.php montre 2 manières de déclarer un tableau en Php.<br>
 L'instruction var_dump($tab) permet d'afficher le contenu de la variable $tab dans le navigateur.<br>
-Pour un affichage confortable, installez x-debug => [Ici](apt://php-xdebug). Puis configurez votre fichier php.ini (etc/php/apache2/php.ini) en modifiant la ligne suivante :<br>
+Pour un affichage confortable, installez x-debug => apt://php-xdebug. Puis configurez votre fichier php.ini (etc/php/apache2/php.ini) en modifiant la ligne suivante :<br>
 display_errors = On.<br>Enfin, redémarrez apache : <b>sudo service apache2 restart<b><br>
 Lisez et comprenez toutes les informations affichées par l'instruction var_dump.<br>
 Ceci vous sera très utile pour afficher l'état de vos variables...<br>
