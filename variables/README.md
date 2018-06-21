@@ -14,7 +14,7 @@ Calculez le montant TTC correspondant, stockez-le dans une variable, et affichez
 Le fichier tableaux.php montre 2 manières de déclarer un tableau en Php.<br>
 L'instruction var_dump($tab) permet d'afficher le contenu de la variable $tab dans le navigateur.<br>
 Pour un affichage confortable, installez x-debug => apt://php-xdebug. Puis configurez votre fichier php.ini (etc/php/apache2/php.ini) en modifiant la ligne suivante :<br>
-display_errors = On.<br>Enfin, redémarrez apache : <b>sudo service apache2 restart<b><br>
+display_errors = On.<br>Enfin, redémarrez apache : <b>sudo service apache2 restart</b><br>
 Lisez et comprenez toutes les informations affichées par l'instruction var_dump.<br>
 Ceci vous sera très utile pour afficher l'état de vos variables...<br>
 
@@ -32,3 +32,10 @@ Supprimez l'élément "Dimanche" du tableau (plusieurs façons de faire).
 ## Testez !
 N'hésitez pas à tester d'autres fonctions de manipulation de tableaux comme array_shift(), array_slice(), array_splice(), sort() !..
 
+# Tableaux Associatifs
+Vous connaissez ? Il s'agit de tableaux dont les éléments sont des paires clé/valeur (jargon) ; il sont très utilisés en Php !<br>
+On peut accéder à une valeur du tableau avec la syntaxe : $nom_du_tableau[clé].<br>
+Observez le tableau associatif du fichier tableaux_associatifs.php.<br>
+Faites un var_dump().<br>
+Modifiez l'activité de Dimanche (faut pas exagérer!..quoique des fois...).<br>
+Il existe des fonctions pour rechercher un élément par sa clé, par sa valeur...<br>
