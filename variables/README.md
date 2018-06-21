@@ -39,3 +39,8 @@ Observez le tableau associatif du fichier tableaux_associatifs.php.<br>
 Faites un var_dump().<br>
 Modifiez l'activité de Dimanche (faut pas exagérer!..quoique des fois...).<br>
 Il existe des fonctions pour rechercher un élément par sa clé, par sa valeur...<br>
+
+## Deux dimensions...
+Dans le fichier tableaux_associatifs.php, vous trouverez 3 tableaux nommés $pierre, $paul et $jacques. Ces tableaux représentent les langages préférés de Pierre, Paul et Jacques.<br>
+Dans le tableau $preferences, ajoutez ces 3 tableaux, d'abord sans nommer les clés (indices), puis en nommant les clés (pierre,paul,jacques).<br>
+Maintenant, cela serait bien de pouvoir compter le nombre d'occurences de chaque langage dans l'ensemble des tableaux. Essayer de le faire sans parcourir les tableaux à l'aide de boucles, juste avec des fonctions Php. Vous pouvez créer des tableaux intermédiaires si nécessaire.
