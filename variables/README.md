@@ -43,4 +43,4 @@ Il existe des fonctions pour rechercher un élément par sa clé, par sa valeur.
 ## Deux dimensions...
 Dans le fichier tableaux_associatifs.php, vous trouverez 3 tableaux nommés $pierre, $paul et $jacques. Ces tableaux représentent les langages préférés de Pierre, Paul et Jacques.<br>
 Dans le tableau $preferences, ajoutez ces 3 tableaux, d'abord sans nommer les clés (indices), puis en nommant les clés (pierre,paul,jacques).<br>
-Maintenant, cela serait bien de pouvoir compter le nombre d'occurences de chaque langage dans l'ensemble des tableaux. Essayer de le faire sans parcourir les tableaux à l'aide de boucles, juste avec des fonctions Php. Vous pouvez créer des tableaux intermédiaires si nécessaire.
+Maintenant, cela serait bien de pouvoir compter le nombre d'occurences de chaque langage dans l'ensemble des tableaux. Essayer de le faire sans parcourir les tableaux à l'aide de boucles, juste avec des fonctions Php. Vous pouvez créer des tableaux intermédiaires si nécessaire. Affichez (avec var_dump()) le palmares des langages (le préféré en premier)<br>
