@@ -35,7 +35,7 @@ N'hésitez pas à tester d'autres fonctions de manipulation de tableaux comme ar
 # Tableaux Associatifs
 Vous connaissez ? Il s'agit de tableaux dont les éléments sont des paires clé/valeur (jargon) ; il sont très utilisés en Php !<br>
 On peut accéder à une valeur du tableau avec la syntaxe : $nom_du_tableau[clé].<br>
-Observez le tableau associatif du fichier tableaux_associatifs.php.<br>
+Observez le tableau associatif $activites du fichier tableaux_associatifs.php.<br>
 Faites un var_dump().<br>
 Modifiez l'activité de Dimanche (faut pas exagérer!..quoique des fois...).<br>
 Il existe des fonctions pour rechercher un élément par sa clé, par sa valeur...<br>
