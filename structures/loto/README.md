@@ -4,7 +4,7 @@ Créez une fonction qui renvoie un tableau rempli.<br>
 
 # Loto
 ## Tirage
-A l'aide d'une boucle for, créez un tableau de 5 nombres entiers aléatoires compris entre 1 et 49 (vous pouvez toujours les jouer, on ne sait jamais...).<br>
+A l'aide d'une boucle for, créez un tableau de 5 nombres d'entiers aléatoires compris entre 1 et 49 (vous pouvez toujours les jouer, on ne sait jamais...).<br>
 Créez une fonction "tirage" qui renvoie un tableau rempli.<br>
 Créez 10 tirages. Affichez les statistiques des numéros les plus sortis.<br>
 Vous pouvez essayer avec un plus grand nombre de tirages...<br>
