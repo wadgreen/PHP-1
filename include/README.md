@@ -48,3 +48,6 @@ L'équipe décide que ce serait mieux si l'image du logo était circulaire (comm
 Il faut renommer le lien de menu "About" en "A propos".<br>
 Listez les opérations à effectuer pour créer une nouvelle page.<br>
 Votre équipe se réjouit car elle tient là une architecture qu'elle va pouvoir réutiliser...vous allez boire un café...
+
+### Des questions, des remarques ?
+On en parle...
