@@ -1,6 +1,6 @@
 # Pierre, Paul et... Jacquot s'organisent !
 
-## Include
+## La fonction include
 
 La fonction Php <i>include</i> permet d'inclure le code d'un fichier Php dans un autre.<br>
 Le fichier à inclure peut contenir du code Php et/ou du code Html.<br> 
