@@ -4,7 +4,7 @@
 
 La fonction Php <i>include</i> permet d'inclure le code d'un fichier Php dans un autre.<br>
 Le fichier à inclure peut contenir du code Php et/ou du code Html.<br> 
-Voyez comment cela fonctionne avec les fichiers index.php et fonctions.php.<br>
+Voyez comment cela fonctionne avec les fichiers index.php, titre.php et fonctions.php.<br>
 Remarque : include 'nom_du_fichier.php' renverra une erreur de type warning (ne bloquant pas le script) si le fichier nom_du_fichier.php n'existe pas.<br>
 Autre remarque : il existe une variante include_once qui fait la même chose mais ne peut charger qu'une seule fois le même fichier (contrairement à include).<br>
 
@@ -20,7 +20,7 @@ Pierre ;-) prend les choses en main et décide de réorganiser le code de maniè
 Il souhaite notamment :<br>
 <ul>
     <li>Renommez chaque fichier .html en .php.</li>
-    <li>Diviser les différentes parties du thème en fichiers php (pour inclure chaque partie dans les pages correspondantes). Identifiez toutes les parties communes à toutes les pages. On peut par exemple créer un fichier menu.php contenant le code de la balise nav.</li>
+    <li>Diviser les différentes parties du thème en fichiers php (pour inclure chaque partie dans les pages correspondantes). Identifier toutes les parties communes à toutes les pages. On peut par exemple créer un fichier menu.php contenant le code de la balise nav.</li>
     <li>Ranger tout cela dans un dossier template (pourquoi pas avec des sous-dossiers pour chaque page...).</li>
     <li>Créer une variable pour le chemin du dossier template (ben oui, si on le renomme, il faut changer le chemin de tous les liens sinon).</li>
     <li>Créer une variable pour le chemin du dossier images.</li>
@@ -45,5 +45,6 @@ Pour la page "Blog" :<br>
 </ul>
 Utilisez la structure de votre application pour ne pas vous répéter.<br>
 L'équipe décide que ce serait mieux si l'image du logo était circulaire (comme celle de la page d'accueil)...vous souriez !<br>
+Il faut renommer le lien de menu "About" en "A propos".<br>
 Listez les opérations à effectuer pour créer une nouvelle page.<br>
 Votre équipe se réjouit car elle tient là une architecture qu'elle va pouvoir réutiliser...vous allez boire un café...
