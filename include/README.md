@@ -47,6 +47,7 @@ Utilisez la structure de votre application pour ne pas vous répéter.<br>
 L'équipe décide que ce serait mieux si l'image du logo était circulaire (comme celle de la page d'accueil)...vous souriez !<br>
 Il faut renommer le lien de menu "About" en "A propos".<br>
 Listez les opérations à effectuer pour créer une nouvelle page.<br>
+On décide de créer un dossier "assets" qui contiendra les dossiers "css" et "images". Comment gérez-vous ça ?<br>
 Votre équipe se réjouit car elle tient là une architecture qu'elle va pouvoir réutiliser...vous allez boire un café...
 
 ### Des questions, des remarques ?
